@@ -86,3 +86,9 @@ body {
         height: 50vh;
     }
 }
+
+@media screen and (max-height: 900px) {
+    .box {
+        height: 55vh;
+    }
+}
